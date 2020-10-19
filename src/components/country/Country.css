@@ -1,0 +1,17 @@
+.card-country {
+  display: flex;
+  flex-wrap: wrap;
+  align-content: center;
+  text-align: center;
+}
+.card-country h1,
+.card-country h3 {
+  flex-basis: 100%;
+  margin: 0 auto;
+}
+.card-country h1 {
+  font-size: 3rem;
+}
+.card-country h3 {
+  font-weight: normal;
+}
